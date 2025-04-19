@@ -36,7 +36,7 @@
   <a href="https://discord.com/users/1285924311533752320" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
-  <a href="abidimahir109@gmail.com" target="_blank">
+  <a href="mailto:abidimahir109@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/mahir-abidi/" target="_blank">
