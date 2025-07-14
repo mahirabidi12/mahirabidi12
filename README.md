@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! I am Mahir Abidi </h2>
+<h4 align="left">AWS Certified Cloud Practitioner</h4>
 
 ###
 
